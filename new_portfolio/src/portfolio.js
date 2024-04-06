@@ -58,7 +58,7 @@ const projects = [
   {
     name: 'Simple Chatbot',
     description:
-      'A simpe chatbot.',
+      'A simpe chatbot that asks questions and responds to the users answers.',
     stack: ['HTML', 'CSS', 'JavaScript', 'React'],
     sourceCode: 'https://github.com/Thajeepan-Rathiharan/Simple_Chatbot_React',
     livePreview: 'https://thajeepan-rathiharan.github.io/Simple_Chatbot_React/',
