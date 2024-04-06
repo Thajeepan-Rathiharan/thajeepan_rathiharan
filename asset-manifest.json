@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/thajeepan_rathiharan/static/css/main.a3c9a9ec.css",
+    "main.js": "/thajeepan_rathiharan/static/js/main.62b5e22d.js",
+    "static/media/myPhoto.jpg": "/thajeepan_rathiharan/static/media/myPhoto.199db61a44b261992f89.jpg",
+    "index.html": "/thajeepan_rathiharan/index.html",
+    "main.a3c9a9ec.css.map": "/thajeepan_rathiharan/static/css/main.a3c9a9ec.css.map",
+    "main.62b5e22d.js.map": "/thajeepan_rathiharan/static/js/main.62b5e22d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3c9a9ec.css",
+    "static/js/main.62b5e22d.js"
+  ]
+}
