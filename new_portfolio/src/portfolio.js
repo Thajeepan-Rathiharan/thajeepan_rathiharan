@@ -26,7 +26,7 @@ const projects = [
   {
     name: 'One Page Site',
     description:
-      'As users, we see a page that lets anyone look for the movies from the search bar by key words, and obtaining the actual or similar movies with their years, actors, rating, and description information by recommendation. In addition, they can search the nearby theaters from where they currently are located.',
+      'A one page website that was responsive and filled with dummy content.',
     stack: ['HTML', 'CSS', 'JavaScrip','React'],
     sourceCode: 'https://github.com/Thajeepan-Rathiharan/App-Site',
     livePreview: 'https://thajeepan-rathiharan.github.io/App-Site/',
@@ -34,7 +34,7 @@ const projects = [
   {
     name: 'Naruto Shippuden Quiz',
     description:
-      'Event Planner was designed with the partier in mind, the one who wants to find fine dinning or a friend to have a good time. Event Planner is the easiest way for anyone to find an event to attend, create or host your own event or browse whats happening in your local area.',
+      'A quiz about my favourite anime.',
     stack: ['HTMl', 'CSS', 'JavaScript'],
     sourceCode: 'https://github.com/Thajeepan-Rathiharan/Module-2-Assessment',
     livePreview: 'https://thajeepan-rathiharan.github.io/Module-2-Assessment/',
@@ -42,7 +42,7 @@ const projects = [
   {
     name: 'Naruto Flash Game',
     description:
-      'Resource Planner is able to distrute the current resource including human resource,time and budget in one company in order to help user to manahe their projects',
+      'My attempt at a flash game with my favourite anime.',
     stack: ['HTML', 'CSS', 'JavaScript', 'jQuery'],
     sourceCode: 'https://github.com/Thajeepan-Rathiharan/naruto-flash-game',
     livePreview: 'https://thajeepan-rathiharan.github.io/naruto-flash-game/',
@@ -50,7 +50,7 @@ const projects = [
   {
     name: 'Jujutsu Kaisen Space Invaders',
     description:
-      'GameStoreData is able to let user retrieve the game from database based on its year and category',
+      'A space invaders clone using anime characters from the show Jujutsu Kaisen.',
     stack: ['Python'],
     sourceCode: 'https://github.com/Thajeepan-Rathiharan/jjk_space_invaders',
     
@@ -58,7 +58,7 @@ const projects = [
   {
     name: 'Simple Chatbot',
     description:
-      'MusicStore is able to direct user to the desired page based on its endpoints by track, album,artist and label',
+      'A simpe chatbot.',
     stack: ['HTML', 'CSS', 'JavaScript', 'React'],
     sourceCode: 'https://github.com/Thajeepan-Rathiharan/Simple_Chatbot_React',
     livePreview: 'https://thajeepan-rathiharan.github.io/Simple_Chatbot_React/',
@@ -66,7 +66,7 @@ const projects = [
   {
     name: 'Weather App',
     description:
-      'MusicStore is able to direct user to the desired page based on its endpoints by track, album,artist and label',
+      'Weather app that tells you the weather based on the city or town you search for.',
     stack: ['HTML', 'CSS', 'JavaScript', 'React'],
     sourceCode: 'https://github.com/Thajeepan-Rathiharan/weather-app',
     livePreview: 'https://thajeepan-rathiharan.github.io/weather-app/',
