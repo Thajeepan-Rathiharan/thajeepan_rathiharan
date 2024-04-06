@@ -1,6 +1,6 @@
 # My Portfolio
 Welcome to my GitHub repository for my new portfolio that I have made using the React framework.
-[Link to my portfolio]()
+[Link to my portfolio](https://thajeepan-rathiharan.github.io/thajeepan_rathiharan/)
 
 ## Software used
 - HTML
