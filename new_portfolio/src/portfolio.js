@@ -13,7 +13,7 @@ const about = {
   role: 'Frontend Developer',
   description:
     'A Media Production graduate who has had a career change into Frontend Development.',
-  resume: 'https://drive.google.com/drive/folders/12MP3uHk94Ew6_egSJqgxbvycI60gHfXhttps://drive.google.com/drive/folders/1Jhyrji6T82_BV6a5BeoaqOwRV_5pBPe9?usp=drive_linkA?usp=sharing',
+  resume: 'https://drive.google.com/drive/folders/1Jhyrji6T82_BV6a5BeoaqOwRV_5pBPe9?usp=drive_linkA?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/thajeepan-rathiharan-188349224/',
     github: 'https://github.com/Thajeepan-Rathiharan',
