@@ -26,7 +26,7 @@ const projects = [
   {
     name: 'One Page Site',
     description:
-      'A one page website that was responsive and filled with dummy content.',
+      'A one page website with dummy content, which was me practising using React.',
     stack: ['HTML', 'CSS', 'JavaScrip','React'],
     sourceCode: 'https://github.com/Thajeepan-Rathiharan/App-Site',
     livePreview: 'https://thajeepan-rathiharan.github.io/App-Site/',
@@ -34,7 +34,7 @@ const projects = [
   {
     name: 'Naruto Shippuden Quiz',
     description:
-      'A quiz about my favourite anime.',
+      'A simple quiz with a responsive design layout, and is based on the anime Naruto Shippuden',
     stack: ['HTMl', 'CSS', 'JavaScript'],
     sourceCode: 'https://github.com/Thajeepan-Rathiharan/Module-2-Assessment',
     livePreview: 'https://thajeepan-rathiharan.github.io/Module-2-Assessment/',
@@ -42,7 +42,7 @@ const projects = [
   {
     name: 'Naruto Flash Game',
     description:
-      'My attempt at a flash game with my favourite anime.',
+      'My successful attempt at making a simple flash game based on my favourite anime Naruto Shippuden.',
     stack: ['HTML', 'CSS', 'JavaScript', 'jQuery'],
     sourceCode: 'https://github.com/Thajeepan-Rathiharan/naruto-flash-game',
     livePreview: 'https://thajeepan-rathiharan.github.io/naruto-flash-game/',
@@ -58,7 +58,7 @@ const projects = [
   {
     name: 'Simple Chatbot',
     description:
-      'A simpe chatbot that asks questions and responds to the users answers.',
+      'A basic yet simple chatbot that asks questions and responds to the users answers.',
     stack: ['HTML', 'CSS', 'JavaScript', 'React'],
     sourceCode: 'https://github.com/Thajeepan-Rathiharan/Simple_Chatbot_React',
     livePreview: 'https://thajeepan-rathiharan.github.io/Simple_Chatbot_React/',
