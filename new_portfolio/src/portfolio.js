@@ -25,7 +25,7 @@ const projects = [
     name: 'One Page Site',
     description:
       'A one page website with dummy content, which was me practising using React.',
-    stack: ['HTML', 'CSS', 'JavaScrip','React'],
+    stack: ['HTML', 'CSS', 'JavaScript','React'],
     sourceCode: 'https://github.com/Thajeepan-Rathiharan/App-Site',
     livePreview: 'https://thajeepan-rathiharan.github.io/App-Site/',
   },
