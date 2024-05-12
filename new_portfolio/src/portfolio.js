@@ -2,7 +2,6 @@ import aboutpic from "./Components/Access/myPhoto.jpg"
 
 const header = {
   // can be left empty or deleted
-  
 }
 
 const about = {
