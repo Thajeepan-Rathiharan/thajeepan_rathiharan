@@ -2,8 +2,7 @@ import aboutpic from "./Components/Access/myPhoto.jpg"
 
 const header = {
   // can be left empty or deleted
-  homepage: 'https://github.com/Thajeepan-Rathiharan/thajeepan_rathiharan',
-  title: 'JS.',
+  
 }
 
 const about = {
