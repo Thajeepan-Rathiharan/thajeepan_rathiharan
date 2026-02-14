@@ -143,6 +143,10 @@ main {
   transform: translateY(-5px);
 }
 
+.p2 {
+    margin-top: 10px;
+}
+
 footer {
   margin-left: 220px;
   width: calc(100% - 220px); 
