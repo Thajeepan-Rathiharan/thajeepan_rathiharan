@@ -7,6 +7,8 @@
 body {
   font-family: 'Segoe UI', sans-serif;
   display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   scroll-behavior: smooth;
 }
 
@@ -71,7 +73,8 @@ body {
 main {
   margin-left: 220px;
   padding: 50px;
-  width: 100%;
+  width: calc(100% - 220px); 
+  flex: 1; /* pushes footer down */
 }
 
 .section {
@@ -141,10 +144,12 @@ main {
 }
 
 footer {
-  margin-top: auto; /* Push the footer to the bottom */
-  color: black;
+  margin-left: 220px;
+  width: calc(100% - 220px); 
+  margin-top: auto;
+  background: #f7f7f7;
   text-align: center;
-  padding: 20px;
+  padding: 40px 20px;
 }
 
 /* Mobile */
@@ -164,6 +169,12 @@ footer {
 
   main {
     margin-left: 0;
+    width: 100%;
     padding: 30px;
+  }
+
+  footer {
+    margin-left: 0;
+    width: 100%;
   }
 }
