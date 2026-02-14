@@ -75,7 +75,7 @@ main {
 }
 
 .section {
-  padding: 80px 0;
+  padding: 20px 0;
 }
 
 .hero {
@@ -102,7 +102,7 @@ main {
 .skills-grid,
 .projects-grid {
   display: grid;
-  gap: 20px;
+  gap: 10px;
   margin-top: 30px;
 }
 
