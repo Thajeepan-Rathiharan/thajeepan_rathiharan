@@ -114,6 +114,19 @@ main {
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 }
 
+.project-description {
+     margin-bottom: 15px; /* Adds space between the description and the project links */
+}
+
+.project-links a {
+  display: block;
+  margin-bottom: 10px; /* Adds space between the link and technologies used text */
+}
+
+.project-link {
+  margin-top: 15px; /* Adds space between the link and technologies used section */
+}
+
 .skill-card,
 .project-card {
   padding: 20px;
